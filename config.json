@@ -1,0 +1,13 @@
+{
+  "prefix":"1h.",
+  "owner":["918117153184571394"],
+  "nodes":[
+    {
+      "name":"v1",
+      "host":"ssl.horizxon.studio",
+      "port": 443,
+      "password": "horizxon.studio",
+      "secure": true
+    }
+  ]
+}
